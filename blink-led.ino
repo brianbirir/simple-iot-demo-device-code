@@ -1,12 +1,12 @@
 #include "Particle.h"
 
-// LEDs to be blinked
+// LED to be blinked
 
 // in-built LED
 const pin_t INTERNAL_LED = D7;
 const pin_t EXTERNAL_LED = D6;
 
-// option function but allows your code to run before the cloud is connected.
+// Optional function but allows your code to run before the cloud is connected.
 SYSTEM_THREAD(ENABLED);
 
 // This function is called when the Particle.function is called
