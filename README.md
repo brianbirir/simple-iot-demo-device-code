@@ -7,7 +7,7 @@ Particle Photon demo code for the simple IoT tutorial.
 ### Hardware
 
 * 1 LED unit
-* 1 220ohms resistor
+* 1 220 ohms resistor
 * Particle Photon (or any [other](https://store.particle.io/collections/dev-kits)  Particle IoT device for prototyping)
 * Breadboard
 * Wires - Male to Male jumpers
