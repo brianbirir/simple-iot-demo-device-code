@@ -1,4 +1,4 @@
-# Simple IoT Tutorial Demo Firmware
+# Simple IoT Tutorial Demo Device Code
 
 Particle Photon demo code for the simple IoT tutorial.
 
